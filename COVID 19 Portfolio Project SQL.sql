@@ -1,4 +1,5 @@
 #COVID 19 Data Exploration
+#I am using MySQL
 #Skills used: CTE's, Windows Functions, Aggregate Funtions, Creating Views, Converting Data Types
 
 SELECT * 
